@@ -2,8 +2,6 @@
 
 A Model Context Protocol (MCP) server that provides tools for interacting with a Supabase database. This server enables AI assistants to perform database operations through a standardized interface.
 
-NOTE: This Supabase MCP server was created as a demonstration of my AI IDE coding workflow. It is still a work in progress which I will expand on in future videos on [my channel](https://youtube.com/@ColeMedin).
-
 ## Features
 
 - **Read Table Rows**: Query data from Supabase tables with optional filtering, pagination, and column selection
@@ -20,7 +18,7 @@ NOTE: This Supabase MCP server was created as a demonstration of my AI IDE codin
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/coleam00/supabase-mcp.git
+   git clone https://github.com/portdev0/supabase-mcp.git
    cd supabase-mcp
    ```
 
